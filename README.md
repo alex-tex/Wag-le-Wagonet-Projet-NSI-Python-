@@ -32,4 +32,4 @@ Augmentation de la difficulté : Plus tu joues, plus le jeu s’accélère et l
 Fin de partie (Game Over) : Elle a lieu quand tes vies arrivent à zéro. Appuie sur R pour recommencer. Tes meilleurs score et niveau sont affichés.
 
 
-### Pour jouer en ligne directement, clique le liens: https://www.pyxelstudio.net/studio/ger57p
+### Pour jouer en ligne directement, clique le lien: https://www.pyxelstudio.net/8upk2q7c 
